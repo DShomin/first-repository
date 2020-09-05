@@ -8,8 +8,8 @@ add new contents
 | 철수 | 서울 | 20 |
 | 영희 | 인천 | 20 |
 
-<hr>
-나의 코드
+<hr>나의 코드</hr>
+
 ~~~python
 import numpy as np
 import seaborn as sns
