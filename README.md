@@ -4,6 +4,7 @@ add new contents
 <img src=./img/groot.gif>
 
 <hr>표</hr>
+
 | 이름 | 주소 | 나이 |
 |---|:---:|---:|
 | 철수 | 서울 | 20 |
