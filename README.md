@@ -25,4 +25,4 @@ arr = np.random.randn(32)
 sns.distplot(arr)
 plt.show()
 ~~~
->>>>>>> cf0ee8b1f0acc3e5e7643138dc102c1d700701c5
+
